@@ -14,6 +14,7 @@ Domain
 
 Insurance Industry.
 
+
 Objectives
 
 -Analyze descriptive statistics of customer and policy-related data.
@@ -22,11 +23,13 @@ Objectives
 
 -Provide actionable insights to support risk management and business strategy.
 
+
 Technologies Used:
 
 Python: preprocessing and statistical analysis.
 
 Power BI: Data preparation and Visualization.
+
 
 Results & Insights:
 
@@ -35,6 +38,7 @@ Claims by Gender: Males were more likely to file claims compared to others.
 Vehicle Analysis: Saloon and Jeep showed a higher likelihood of claims compared to the rest.
 
 Geographic Patterns: Certain states and LGAs reported significantly higher claim frequencies.
+
 
 Dataset Use Cases:
 
